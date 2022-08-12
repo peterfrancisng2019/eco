@@ -1,0 +1,1 @@
+this project will require logistic regression for modeling
